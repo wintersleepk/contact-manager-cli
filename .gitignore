@@ -1,0 +1,13 @@
+# Compiled binaries
+*.out
+*.exe
+*.o
+run
+
+# Data files
+*.dat
+*.txt
+*.log
+
+# Temp/swap files
+*.swp
